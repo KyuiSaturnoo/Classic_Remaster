@@ -1,0 +1,17 @@
+{
+  "Classic_Remaster": [
+    {
+ "version":"2.6",
+ "title":"Atualização Disponível",
+ "description":"Classic Remaster
+
+
+〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
+
+
+ Clique no botão para ser redirecionado ao site oficial
+e baixar a nova versão da textura e do APK",
+"download":"bit.ly/ClassicRemaster"
+}
+  ]
+}
